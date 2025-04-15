@@ -1,14 +1,67 @@
-# hugo-PaperModX Example
+# Joe Gonwa – Personal Blog
 
-This repository offers an example site for [hugo-PaperModX](https://github.com/reorx/hugo-PaperModX)
+This is the Hugo-based personal site of Joe Gonwa, built using the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. The site hosts essays, reflections, project logs, and reading notes.
 
-The GitHub Pages site for this repo is at: https://reorx.github.io/papermodx-example/
+---
 
-## How to use
+## 🧭 Project Snapshot
 
-1. Fork this repo
-2. Go to "Settings > Pages", select "GitHub Actions" for the "Source" dropdown
+**Last Updated:** 2025-04-14  
+**Status:**  
+✅ Hugo + PaperMod live locally  
+✅ Custom config and sections set up  
+✅ Initial content created  
+✅ Repo connected to GitHub
 
-    ![](_readme_images/settings-pages.png)
-3. Go to "Actions", rerun the failed workflow
-4. Your site should be available at `https://$USERNAME.github.io/papermodx-example/`, you can also check the URL at `https://github.com/$USERNAME/papermodx-example/settings/pages`
+---
+
+## 🚀 Deployment (Next Steps)
+
+- [ ] Set up hosting on [Netlify](https://netlify.com) or [Cloudflare Pages](https://pages.cloudflare.com)  
+- [ ] Connect custom domain: `joegonwa.com`  
+- [ ] Confirm public site build + access  
+
+---
+
+## 📝 Content To-Do
+
+- [ ] Flesh out `/about` page  
+- [ ] Publish 1–2 essays in `/content/writing/`  
+- [ ] Add quote + commentary entries to `/margins/`  
+- [ ] Build out reading log in `/reading/`  
+- [ ] Add 1 live project in `/projects/`
+
+---
+
+## 🧰 Future Enhancements
+
+- [ ] Add Umami analytics (self-hosted or via Railway)  
+- [ ] Confirm RSS at `/feed.xml`  
+- [ ] Add favicon/logo  
+- [ ] Explore Hugo shortcodes for images or callouts  
+- [ ] Maintain a "Now" page as life evolves  
+
+---
+
+## 🗂 Folder Structure
+
+<pre>
+personal-blog/
+├── content/
+│   ├── about/
+│   ├── writing/
+│   ├── margins/
+│   ├── projects/
+│   ├── reading/
+│   ├── now/
+│   └── contact/
+├── config.yml
+├── themes/papermod/
+├── static/
+</pre>
+
+---
+
+## 💡 Philosophy
+
+This is a minimalist, intentional space for writing, thinking, and personal tracking. Built with simplicity and longevity in mind.
