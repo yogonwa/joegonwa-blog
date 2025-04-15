@@ -1,105 +1,60 @@
-title: PaperModX Example Site
-baseURL: "https://reorx.github.io/papermodx-example/"
-theme: PaperModX
+title: Joe Gonwa
+baseURL: "https://joegonwa.com"
+theme: papermod
 
 enableRobotsTXT: true
 enableEmoji: true
 
 params:
-  description: "PaperModX Example Site description"
-  author: Reorx
-  images:
-    - cover.png
-  favicon: favicon.ico
-  #logo:
-  #  icon: images/logo.svg
+  description: "Writing, projects, and reflections by Joe Gonwa"
+  author: Joe Gonwa
+  favicon: "favicon.ico"
   DateFormat: "2006-01-02"
-  useCustomAnalytics: true
-  mainSections:
-    - posts
-    - notes
-
-  # theme params
-  DisableLanguageSwitch: true
-  TocOpen: true
-  TocSide: right
-  EnableInstantClick: false
-  EnableImageZoom: true
-  ShowShareButtons: true
-  ShareButtons:
-    - twitter
-    - telegram
+  defaultTheme: auto  # light, dark, auto
   ShowReadingTime: true
   ShowWordCount: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
-  Email: hello@example.com
-
-  socialIcons:
-    - name: github-simple
-      url: "https://github.com/reorx"
-    - name: twitter-simple
-      url: "https://twitter.com/novoreorx"
-    - name: telegram-simple
-      url: "https://t.me/reorx_share"
-    - name: rss-simple
-      url: "feed.xml"
-    - name: gmail
-      url: email
-
-  socialAccounts:
-    twitter:
-      username: novoreorx
 
   homeInfoParams:
-    Title: "PaperModX"
-    Content: |
-      Welcome to demo of hugo's theme PaperModX.
+    Title: "Hi, I'm Joe."
+    Content: >
+      I’m a product manager, writer, and tinkerer. This is my personal corner of the internet—where I think in public, track projects, and write about what’s capturing my attention.
 
-      - **PaperModX** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+  socialIcons:
+    - name: github
+      url: "https://github.com/yogonwa"
+    - name: rss
+      url: "/feed.xml"
 
-      - PaperModX is based on theme [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
+menu:
+  main:
+    - name: About
+      url: /about/
+      weight: 1
+    - name: Writing
+      url: /writing/
+      weight: 2
+    - name: Margins
+      url: /margins/
+      weight: 3
+    - name: Projects
+      url: /projects/
+      weight: 4
+    - name: Reading
+      url: /reading/
+      weight: 5
+    - name: Now
+      url: /now/
+      weight: 6
+    - name: Contact
+      url: /contact/
+      weight: 7
 
-      To get started, please head to the [Docs](docs).
-
-      To see examples of different contents, head to [examples tag](tags/example).
-
-  #commentSystems:
-  #  disqus:
-  #    shortname: reorx
-  #  remark42:
-  #    url: https://remark42.reorx.com
-  #    site: reorx.github.io
-  #  telegramWidget:
-  #    channel: reorx_share
-  #    accentColor: "9077e1"
-  #    limit: 20
-  #defaultCommentSystems:
-  #  remark42: true
-
-permalinks:
-  notes: /:section/:year/:month/:slugorfilename
-
-# prefer feed.xml rather than index.xml
 outputFormats:
   RSS:
     mediatype: "application/rss"
     baseName: "feed"
-
-menu:
-  main:
-    - name: Posts
-      url: /posts/
-      weight: 1
-    - name: Notes
-      url: /notes/
-      weight: 2
-    - name: Newsletter
-      url: /newsletter/
-      weight: 3
-    - name: Archives
-      url: /archives/
-      weight: 4
 
 languages:
   en:
