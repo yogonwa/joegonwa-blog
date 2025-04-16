@@ -1,6 +1,6 @@
 title: Joe Gonwa
 baseURL: "https://joegonwa.com"
-theme: papermod
+theme: PaperMod
 
 enableRobotsTXT: true
 enableEmoji: true
