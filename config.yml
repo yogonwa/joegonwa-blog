@@ -9,7 +9,7 @@ ignoreLogs: ['warning-partial-superfluous-prefix']
 params:
   description: "Writing, projects, and reflections by Joe Gonwa"
   author: Joe Gonwa
-  favicon: "favicon.ico"
+  favicon: "favicon.png"
   DateFormat: "2006-01-02"
   defaultTheme: auto  # light, dark, auto
   ShowReadingTime: true
