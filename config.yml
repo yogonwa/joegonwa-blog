@@ -25,8 +25,8 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/yogonwa"
-    - name: rss
-      url: "/feed.xml"
+    - name: linkedin
+      url: "https://linkedin.com/in/your-linkedin-username"
 
 menu:
   main:
