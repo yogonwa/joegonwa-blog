@@ -9,18 +9,26 @@ ignoreLogs: ['warning-partial-superfluous-prefix']
 params:
   description: "Writing, projects, and reflections by Joe Gonwa"
   author: Joe Gonwa
-  favicon: "favicon.png"
+  favicon: "favicon.svg"
+  faviconIco: "favicon.ico"
+  appleTouchIcon: "apple-touch-icon.png"
+  webManifest: "site.webmanifest"
   DateFormat: "2006-01-02"
   defaultTheme: auto  # light, dark, auto
   ShowReadingTime: true
   ShowWordCount: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
+  mainSections:
+    - projects
+    - writing
+    - margins
+  hideSearch: true
 
   homeInfoParams:
     Title: "Hi, I'm Joe."
     Content: >
-      I'm a product manager, writer, and tinkerer. This is my personal corner of the internet—where I think in public, track projects, and write about what's capturing my attention.
+      This site is where I focus, build, and think out loud.
 
   socialIcons:
     - name: github

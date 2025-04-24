@@ -40,7 +40,11 @@ This is the Hugo-based personal site of Joe Gonwa, built using the [PaperMod](ht
 - [ ] Add favicon/logo  
 - [ ] Explore Hugo shortcodes for images or callouts  
 - [ ] Maintain a "Now" page as life evolves  
+Refine Projects index with visual tiles
+Upgrade the /projects/ section from a basic list to a tile-style grid using shortcodes or a custom layout. Each project could be displayed as a card with title, summary, and optional metadata like tags or thumbnails.
 
+ Introduce custom type: project layout with structured metadata
+Consider building a dedicated layout template for projects that includes structured fields in frontmatter such as tech stack, project status, completion %, and milestones. This would allow for dynamic visual representation of progress, filtering by tag, and more consistent presentation across projects.
 ---
 
 ## 🗂 Folder Structure
