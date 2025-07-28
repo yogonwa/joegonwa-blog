@@ -6,7 +6,7 @@ date: 2025-07-28
 draft: false
 tags: ["project", "AI", "Literature", "NobelLM"]
 ---
-## Why I Built NobelLM
+### Why I Built NobelLM
 
 
 What if you could gather the greatest literary minds of the past century in a room and ask them a question?
