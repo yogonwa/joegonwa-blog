@@ -1,11 +1,12 @@
 ---
-title: "NobelLM"
+title: "Why I Built NobelLM"
+description: "Introducing the Nobel Laureate Speech Explorer"
 summary: "A semantic search and RAG system built to explore over 100 years of Nobel Literature speeches using AI."
 date: 2025-07-28
 draft: false
 tags: ["project", "AI", "Literature", "NobelLM"]
 ---
-## Why I Built NobelLM: Introducing the Nobel Laureate Speech Explorer
+## Why I Built NobelLM
 
 
 What if you could gather the greatest literary minds of the past century in a room and ask them a question?
