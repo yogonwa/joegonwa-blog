@@ -1,7 +1,7 @@
 ---
 title: "RecipeScraper"
 summary: "A tool to clean and import recipes into my Notion Cookbook."
-date: 2025-04-23
+date: 2025-05-01
 tags: ["project"]
 ---
 
