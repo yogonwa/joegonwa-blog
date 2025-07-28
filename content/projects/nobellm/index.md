@@ -1,5 +1,5 @@
 ---
-title: "Why I Built NobelLM"
+title: "NobelLM"
 description: "Introducing the Nobel Laureate Speech Explorer"
 summary: "A semantic search and RAG system built to explore over 100 years of Nobel Literature speeches using AI."
 date: 2025-07-28
