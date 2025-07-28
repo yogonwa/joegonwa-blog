@@ -56,9 +56,7 @@ menu:
     - name: Now
       url: /now/
       weight: 6
-    - name: Contact
-      url: /contact/
-      weight: 7
+
 
 outputFormats:
   RSS:
