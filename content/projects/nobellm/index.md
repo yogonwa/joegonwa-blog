@@ -45,6 +45,10 @@ This project has always been more than a weekend demo. I wanted to:
 
 This post is the first in a series. In the coming weeks, I'll share how NobelLM works, what I learned along the way, and why building with humanity—and not just code—matters.
 
+
+**Update**: Read the next post in the series: [Four Ways to Explore NobelLM](/writing/four-ways-to-explore-nobellm)
+
+
 Here’s a teaser of some future blog posts:
 
 - **What exactly is RAG, and how does all this AI stuff really work?**
