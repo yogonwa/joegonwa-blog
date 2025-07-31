@@ -9,10 +9,6 @@ ignoreLogs: ['warning-partial-superfluous-prefix']
 params:
   description: "Writing, projects, and reflections by Joe Gonwa"
   author: Joe Gonwa
-  favicon: "favicon.svg"
-  faviconIco: "favicon.ico"
-  appleTouchIcon: "apple-touch-icon.png"
-  webManifest: "site.webmanifest"
   DateFormat: "2006-01-02"
   defaultTheme: auto  # light, dark, auto
   ShowReadingTime: true
@@ -24,6 +20,15 @@ params:
     - writing
     - margins
   hideSearch: true
+
+  assets:
+    favicon: "favicon.png"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "safari-pinned-tab.svg"
+    theme_color: "#2e2e33"
+    msapplication_TileColor: "#2e2e33"
 
   homeInfoParams:
     Title: "Hi, I'm Joe."
