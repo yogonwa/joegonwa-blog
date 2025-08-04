@@ -14,8 +14,8 @@ This is what I’m focused on right now—roughly updated every few months.
 
 ### 💻 Building
 
-**<a href="https://nobellm.com" target="_blank">NobelLM</a>** - a web app that scrapes, structures, and semantically searches over 100 years of Nobel Literature lectures and speeches. Powered by embeddings and generative AI, it lets users ask open-ended questions and receive grounded responses with citations from real source material.  
-**My personal blog** (this site!) — adding content and blog posts 
+**<a href="https://nobellm.com" target="_blank">NobelLM</a>** - A semantic search and RAG system built to explore over 100 years of Nobel Literature speeches using AI.  
+**My personal blog** (this site!) — adding content 
 
 ### 🎹 Learning
 

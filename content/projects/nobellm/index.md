@@ -51,7 +51,7 @@ This post is the first in a series. In the coming weeks, I'll share how NobelLM 
 
 Here’s a teaser of some future blog posts:
 
-- **What exactly is RAG, and how does all this AI stuff really work?**
+- **[How NobelLM Works: Behind the Scenes of a RAG Architecture](/writing/how-nobellm-works/)**
 - **What it means to be a full-stack prompt engineer**
 - **Challenges I ran into—and what surprised me**
 - **Reflections on literariness, automation, and what AI leaves behind**

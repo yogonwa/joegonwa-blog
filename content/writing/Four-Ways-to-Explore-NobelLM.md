@@ -83,4 +83,4 @@ Try a question of your own at <a href="https://nobellm.com" target="_blank">nobe
 
 ---
 
-*Next week: The technical architecture behind these different response modes, and why intent recognition is harder than it looks.*
+*Next week: The <a href="/writing/how-nobellm-works/" target="_blank">technical architecture</a> behind these different response modes, and why intent recognition is harder than it looks.*
