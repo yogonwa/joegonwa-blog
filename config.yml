@@ -49,18 +49,12 @@ menu:
     - name: Writing
       url: /writing/
       weight: 2
-    - name: Margins
-      url: /margins/
-      weight: 3
     - name: Projects
       url: /projects/
-      weight: 4
-    - name: Reading
-      url: /reading/
-      weight: 5
+      weight: 3
     - name: Now
       url: /now/
-      weight: 6
+      weight: 4
 
 
 outputFormats:

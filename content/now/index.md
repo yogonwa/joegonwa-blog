@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: 2025-07-30
+date: 2025-08-07
 layout: "single"
 ---
 
@@ -10,7 +10,7 @@ This is what I’m focused on right now—roughly updated every few months.
 
 *Adventures of Huckleberry Finn* by Mark Twain  
 *Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI* by Karen Hao  
-*Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism* by Sarah Wynn-Williams
+*Macbeth* by William Shakespeare
 
 ### 💻 Building
 
@@ -26,5 +26,5 @@ Prompt design and language models
 ### 🏡 Life
 
 ☀️ Stayed indoors to avoid the Summer heat.  
-🎂 Celebrated my birthday this month.  
+🎂 Celebrated my birthday last month.  
 🎓 Joined the Board of Directors at my daughter's Montessori School 

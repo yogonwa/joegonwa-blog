@@ -2,7 +2,7 @@
 title: "Saddest Place on Earth"
 date: 2020-01-31
 tags: ["parenting", "reflection", "personal essay"]
-summary: "A quiet, harrowing, and unexpectedly hopeful moment in the pediatrician's waiting room with a one-year-old daughter."
+summary: "An unexpectedly hopeful moment in the pediatrician's waiting room with my one-year-old daughter."
 featured_image: "/images/ruby.jpg"
 ---
 
